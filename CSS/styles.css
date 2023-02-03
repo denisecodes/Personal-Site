@@ -61,16 +61,9 @@ p {
 .middle-container{
 }
 
-.bottom-container{
-    background-color: #66BFBF;
-    padding: 50px;
-}
-
-
-.top-cloud {
+.bottom-cloud {
     position: absolute;
-    right: 300px;
-    top: 50px;
+    left: 250px;
 }
 
 .top-cloud {
