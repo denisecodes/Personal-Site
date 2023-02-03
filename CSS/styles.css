@@ -67,10 +67,10 @@ p {
 }
 
 
-.bottom-cloud {
+.top-cloud {
     position: absolute;
-    top: 200px;
-    left: 300px;
+    right: 300px;
+    top: 50px;
 }
 
 .top-cloud {
